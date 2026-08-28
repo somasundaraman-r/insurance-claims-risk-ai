@@ -7,6 +7,12 @@ __pycache__/
 .env
 *.log
 .DS_Store
-# Raw and processed datasets
+
+# Local/private datasets
 data/*.csv
-data/*.xlsx
+
+# Generated ML artifacts
+models/*.joblib
+
+# Generated reports
+reports/*.csv
