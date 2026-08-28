@@ -132,6 +132,8 @@ def generate_risk_scores():
         "ANOMALY_SCORE",
         "BUSINESS_RISK_SCORE",
         "FINAL_RISK_SCORE",
+	"CLAIM_STATUS",
+	"INCIDENT_SEVERITY",
         "RISK_LEVEL",
     ]
 
